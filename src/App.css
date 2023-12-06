@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.delete{
+  margin-left: 10px;
+}
+
+.dodaj{
+  position: inherit;
+  margin-top: 50px;
+}
+
+input{
+  display: block;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+body{
+  font-size: 15px;
+  font-family: 'Times New Roman', Times, serif;
+}
